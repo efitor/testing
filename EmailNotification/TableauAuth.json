@@ -1,8 +1,0 @@
-{
-        "server": "https://10ay.online.tableau.com/",
-        "api_version": "3.20",
-        "personal_access_token_name": "Email-Notification",
-        "personal_access_token_secret": "po1GcmGPRmmfvMr0BrNCfA==:qns1VPUpvBgWeMst1icMSoqGstxo2BVo",
-        "site_name": "turnriver",
-        "site_url": "turnriver"
-}
